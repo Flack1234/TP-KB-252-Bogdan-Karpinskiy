@@ -1,0 +1,17 @@
+# text_strip = input("Введіть рядок з пробілами по краях: ")
+# print(text_strip.strip())
+# text_capitalize = input("Введіть рядок з маленьких літер: ")
+# print(text_capitalize.capitalize())
+# text_title = input("Введіть кілька слів: ")
+# print(text_title.title())
+# text_upper = input("Введіть слово маленькими літерами: ")
+# print(text_upper.upper())
+# text_lower = input("Введіть слово великими літерами: ")
+# print(text_lower.lower())
+
+
+print(input("Введіть рядок з пробілами по краях: ").strip())
+print(input("Введіть рядок з маленьких літер: ").capitalize())
+print(input("Введіть кілька слів: ").title())
+print(input("Введіть слово маленькими літерами: ").upper())
+print(input("Введіть слово великими літерами: ").lower())
